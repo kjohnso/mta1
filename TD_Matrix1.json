@@ -1,0 +1,122 @@
+{	
+  "nodes": [	
+
+{"id": "Veh Ownership Research", "group": 2},
+{"id": "MN Core Parking", "group": 2},
+{"id": "East Harlem Parking", "group": 2},
+{"id": "ZED General", "group": 2},
+{"id": "Gowanus Transp Study", "group": 4},
+{"id": "Bushwick Transp Study", "group": 4},
+{"id": "Dntwn BK Transp Study", "group": 4},
+{"id": "Utica Ave Transp Study", "group": 4},
+{"id": "LIC Transp Study", "group": 4},
+{"id": "Flushing W Transp Study", "group": 4},
+{"id": "Pelham Bay Pk Transp Study", "group": 4},
+
+
+{"id": "DMV", "group": 6},
+{"id": "DCA", "group": 6},
+{"id": "FHV", "group": 6},
+{"id": "Travelshed", "group": 6},
+
+{"id": "Interagency TranspTeam", "group": 9},
+{"id": "Regional Planning - Rail", "group": 9},
+{"id": "Interagency EV/AV", "group": 9},
+
+{"id": "E Flatbush Bike Planning", "group": 8},
+{"id": "Soundview Bike Planning", "group": 8},
+{"id": "Mode Shift Bike Planning", "group": 8},
+
+{"id": "FHV Research", "group": 2},
+{"id": "Travelshed Research", "group": 2},
+{"id": "CTPP Analysis", "group": 2},
+{"id": "ZED Parking", "group": 2},
+{"id": "Congestion Pricing", "group": 2}
+
+
+
+
+	
+  ],	
+	
+  "links": [	
+	
+{"source": "Veh Ownership Research", "target":  "DMV", "value": 5},
+{"source": "MN Core Parking", "target":  "DMV", "value": 5},
+{"source": "East Harlem Parking", "target":  "DMV", "value": 5},
+{"source": "Regional Planning - Rail", "target":  "DMV", "value": 5},
+{"source": "ZED General", "target":  "DMV", "value": 5},
+{"source": "Gowanus Transp Study", "target":  "DMV", "value": 5},
+{"source": "Bushwick Transp Study", "target":  "DMV", "value": 5},
+{"source": "Dntwn BK Transp Study", "target":  "DMV", "value": 5},
+{"source": "Utica Ave Transp Study", "target":  "DMV", "value": 5},
+{"source": "LIC Transp Study", "target":  "DMV", "value": 5},
+{"source": "Flushing W Transp Study", "target":  "DMV", "value": 5},
+{"source": "Pelham Bay Pk Transp Study", "target":  "DMV", "value": 5},
+{"source": "Interagency TranspTeam", "target":  "DMV", "value": 5},
+{"source": "E Flatbush Bike Planning", "target":  "DMV", "value": 5},
+{"source": "Soundview Bike Planning", "target":  "DMV", "value": 5},
+{"source": "Mode Shift Bike Planning", "target":  "DMV", "value": 5},
+
+{"source": "FHV Research", "target":  "DMV", "value": 5},
+{"source": "Travelshed Research", "target":  "DMV", "value": 5},
+{"source": "CTPP Analysis", "target":  "DMV", "value": 5},
+{"source": "ZED Parking", "target":  "DMV", "value": 5},
+{"source": "Congestion Pricing", "target":  "DMV", "value": 5},
+{"source": "Interagency EV/AV", "target":  "DMV", "value": 5},
+
+
+{"source": "MN Core Parking", "target":  "DCA", "value": 5},
+{"source": "East Harlem Parking", "target":  "DCA", "value": 5},
+
+{"source": "FHV Research", "target":  "DCA", "value": 5},
+{"source": "Travelshed Research", "target":  "DCA", "value": 5},
+{"source": "Congestion Pricing", "target":  "DCA", "value": 5},
+
+
+{"source": "Regional Planning - Rail", "target":  "FHV", "value": 5},
+{"source": "ZED General", "target":  "FHV", "value": 5},
+{"source": "Gowanus Transp Study", "target":  "FHV", "value": 5},
+{"source": "Bushwick Transp Study", "target":  "FHV", "value": 5},
+{"source": "Dntwn BK Transp Study", "target":  "FHV", "value": 5},
+{"source": "Utica Ave Transp Study", "target":  "FHV", "value": 5},
+{"source": "LIC Transp Study", "target":  "FHV", "value": 5},
+{"source": "Flushing W Transp Study", "target":  "FHV", "value": 5},
+{"source": "Pelham Bay Pk Transp Study", "target":  "FHV", "value": 5},
+{"source": "Interagency TranspTeam", "target":  "FHV", "value": 5},
+{"source": "E Flatbush Bike Planning", "target":  "FHV", "value": 5},
+{"source": "Soundview Bike Planning", "target":  "FHV", "value": 5},
+{"source": "Mode Shift Bike Planning", "target":  "FHV", "value": 5},
+
+{"source": "FHV Research", "target":  "FHV", "value": 5},
+{"source": "Travelshed Research", "target":  "FHV", "value": 5},
+{"source": "CTPP Analysis", "target":  "FHV", "value": 5},
+{"source": "ZED Parking", "target":  "FHV", "value": 5},
+{"source": "Congestion Pricing", "target":  "FHV", "value": 5},
+{"source": "Interagency EV/AV", "target":  "FHV", "value": 5},
+
+
+{"source": "Veh Ownership Research", "target":  "Travelshed", "value": 5},
+{"source": "Regional Planning - Rail", "target":  "Travelshed", "value": 5},
+{"source": "ZED General", "target":  "Travelshed", "value": 5},
+{"source": "Gowanus Transp Study", "target":  "Travelshed", "value": 5},
+{"source": "Bushwick Transp Study", "target":  "Travelshed", "value": 5},
+{"source": "Dntwn BK Transp Study", "target":  "Travelshed", "value": 5},
+{"source": "Utica Ave Transp Study", "target":  "Travelshed", "value": 5},
+{"source": "LIC Transp Study", "target":  "Travelshed", "value": 5},
+{"source": "Flushing W Transp Study", "target":  "Travelshed", "value": 5},
+{"source": "Pelham Bay Pk Transp Study", "target":  "Travelshed", "value": 5},
+{"source": "Interagency TranspTeam", "target":  "Travelshed", "value": 5},
+{"source": "E Flatbush Bike Planning", "target":  "Travelshed", "value": 5},
+{"source": "Soundview Bike Planning", "target":  "Travelshed", "value": 5},
+{"source": "Mode Shift Bike Planning", "target":  "Travelshed", "value": 5},
+
+{"source": "FHV Research", "target":  "Travelshed", "value": 5},
+{"source": "Travelshed Research", "target":  "Travelshed", "value": 5},
+{"source": "CTPP Analysis", "target":  "Travelshed", "value": 5},
+{"source": "ZED Parking", "target":  "Travelshed", "value": 5},
+{"source": "Congestion Pricing", "target":  "Travelshed", "value": 5},
+{"source": "Interagency EV/AV", "target":  "Travelshed", "value": 5}
+
+  ]	
+}	
